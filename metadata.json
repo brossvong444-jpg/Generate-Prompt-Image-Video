@@ -1,0 +1,7 @@
+{
+  "name": "Image and Video Prompt Analyzer",
+  "description": "Analyze images and transcribe video content into descriptive prompts using Gemini 3.1 Pro, with Veo 3 video generation support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
